@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/Charon-68">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=640&height=48&lines=%3E+initiating+handshake...;%3E+access+granted+%E2%96%88;%3E+whoami+%E2%86%92+charon-68;%3E+%22Good+luck.%22+%E2%80%94+3301;%3E+decrypting+liber_primus.txt..." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=700&height=48&lines=%3E+initiating+handshake...;%3E+access+granted+%E2%96%88;%3E+whoami+%E2%86%92+charon-68;%3E+building+agents%2C+detectors+%26+control+systems;%3E+%22Good+luck.%22+%E2%80%94+3301" alt="typing" />
 </a>
 
 `ᚠ ᚢ ᚦ ᚩ ᚱ ᚳ ᚷ ᚹ ᚻ ᚾ ᛁ ᛄ ᛇ ᛈ ᛉ ᛋ ᛏ ᛒ ᛖ ᛗ ᛚ ᛝ ᛟ ᛞ ᚪ ᚫ ᚣ ᛡ ᛠ`
@@ -19,8 +19,10 @@ root@charon:~$ cat identity.txt
 
 ```yaml
 handle:    Charon-68
-role:      builder / breaker / puzzle-solver      # edit me
-focus:     [ AI, security, systems ]              # edit me
+name:      Shourya Saxena
+role:      ML engineer / full-stack builder / hackathon grinder
+focus:     [ agentic AI, RAG, computer vision, RL, control systems ]
+shipping:  hackathon MVPs fast, then hardening them with real benchmarks
 status:    online // watching the signal
 motto:     "Through the dark, the code remembers."
 ```
@@ -35,11 +37,46 @@ motto:     "Through the dark, the code remembers."
 
 <br/>
 
+## `> featured payloads`
+
+```console
+root@charon:~$ ls -lt ~/projects | head
+```
+
+| | project | what it does | stack |
+|---|---|---|---|
+| 🛰️ | **[Turret Control System](https://github.com/Charon-68/Turrent-Control-System_ME319)** | Predictive tracking and turret control through radar blackouts. **1000/1000** held-out engagements intercepted, 9,198 of 9,204 pulses on target, 25/25 checks in CI. | `Octave` `MATLAB` `Control` |
+| 🧠 | **[AI Apprentice](https://github.com/Charon-68/Jarvis-HackNation)** | Hack-Nation x ElevenLabs build: captures how an expert support engineer triages, turns it into a verified Work Map, then coaches a new hire on an unseen ticket. | `TypeScript` `Voice AI` `Agents` |
+| 🕵️ | **[AI Image Forensics](https://github.com/Charon-68/Cross-Generator-AI-Image-Forensics-)** | CPU-only detector for AI-generated images, with explanations. **0.901 AUROC** on a source-disjoint test set (0.874 under JPEG-50). Hand-tuned baseline scored 0.358, so it was replaced by a learned model. | `Python` `LightGBM` `SHAP` |
+| 🗣️ | **[VasooliMitra](https://github.com/Charon-68/VasooliMitra)** | Voice-first AI CFO for Indian small businesses. Speak in Hindi to log sales, udhari and GST. WhatsApp-connected. | `Next.js` `FastAPI` `Supabase` `Whisper` |
+| ⚔️ | **[CodeDuel](https://github.com/Charon-68/CodeDuel)** | Competitive programming platform with real-time 1v1 duels, async code judging in Docker sandboxes, live verdict streaming. | `Next.js` `Express` `BullMQ` `Redis` `Postgres` |
+| 🔎 | **[Agentic Code Retrieval](https://github.com/Charon-68/Agentic-Code-Retrieval-System)** | Agentic RAG over code repos: hybrid search, AST-aware parsing, ReAct-style reasoning. | `Python` `LlamaIndex` `ChromaDB` |
+| 🧬 | **[PINN Pipeline](https://github.com/Charon-68/pinn_work)** | Generates, validates, trains and benchmarks physics-informed neural networks from equations, with mixed-precision benchmarking. | `Python` `PyTorch` |
+| 📈 | **[DeepRL Stock Trading](https://github.com/Charon-68/DeepRL-StockTrading)** | DQN vs DDPG for multi-asset trading with transaction costs and risk-aware rewards. | `Python` `FinRL` `SB3` |
+| 🔗 | **[EntityMesh](https://github.com/Charon-68/EntityMesh-Amazon_ML_Hackathon)** | Entity resolution across 3 noisy business data sources. Amazon ML Challenge. | `Python` `ML` |
+| 🌄 | **[DepthWizard](https://github.com/Charon-68/DepthWizard-SIH_175)** | Single-view height estimation and 3D flythrough from satellite imagery. SIH. | `PyTorch` `GAMUS` |
+| 🌿 | **[Portfolio](https://github.com/Charon-68/portfolio-Shourya)** | Interactive portfolio inside a procedural Three.js valley with custom GLSL shaders. [Live](https://shouryasaxena.vercel.app) | `Three.js` `React 19` `Vite` |
+
+<details>
+<summary><code>> more: learning in public</code></summary>
+
+<br/>
+
+- [Multimodal Transformer from scratch](https://github.com/Charon-68/SOC_MultiModal_Transformer_24b2222): ViT, CLIP-style dual encoder and cross-attention models in PyTorch (IIT Bombay Seasons of Code)
+- [NLP Bootcamp](https://github.com/Charon-68/NLP_Bootcamp): sentence transformers, PEFT fine-tuning, dense retrieval, reranking, RAG, MCP
+- [CV Bootcamp](https://github.com/Charon-68/CV_Bootcamp) and [YOLOv5 object detection](https://github.com/Charon-68/object-detection-by-yolov5)
+- [Leetmaxxing](https://github.com/Charon-68/Leetmaxxing): LeetCode grind in C++
+- [Fatigue strength predictor](https://github.com/Charon-68/fatigue-strength-predictor): XGBoost/RF plus Pareto alloy design (fork)
+
+</details>
+
+<br/>
+
 ## `> arsenal`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,rust,linux,docker,git,bash,vim&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,ts,js,react,nextjs,nodejs,fastapi,threejs,tailwind,postgres,redis,docker,cpp,matlab,linux,git,vercel&theme=dark" />
 
 </div>
 
