@@ -7,13 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=700&height=48&lines=%3E+initiating+handshake...;%3E+access+granted+%E2%96%88;%3E+whoami+%E2%86%92+charon-68;%3E+building+agents%2C+detectors+%26+control+systems;%3E+%22Good+luck.%22+%E2%80%94+3301" alt="typing" />
 </a>
 
-<p>
-<a href="https://shouryasaxena.vercel.app"><img src="https://img.shields.io/badge/portfolio-live-00ff41?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=00ff41" /></a> <a href="https://github.com/Charon-68?tab=followers"><img src="https://img.shields.io/github/followers/Charon-68?style=for-the-badge&labelColor=000000&color=00ff41&logo=github&logoColor=00ff41" /></a> <img src="https://img.shields.io/badge/status-online-00ff41?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/focus-agentic_AI_%C2%B7_CV_%C2%B7_RL-00ff41?style=for-the-badge&labelColor=000000&logo=pytorch&logoColor=00ff41" /> <img src="https://img.shields.io/badge/open_to-collabs-00ff41?style=for-the-badge&labelColor=000000&logo=handshake&logoColor=00ff41" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Hack--Nation-ElevenLabs_AI_Apprentice-00ff41?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/Amazon_ML-Challenge_2026-00ff41?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/SIH-2026_DepthWizard-00ff41?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/SARCathon-2026_Agentic_AI-00ff41?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/IIT_Bombay-Seasons_of_Code-00ff41?style=for-the-badge&labelColor=000000" />
-</p>
-
 `ᚠ ᚢ ᚦ ᚩ ᚱ ᚳ ᚷ ᚹ ᚻ ᚾ ᛁ ᛄ ᛇ ᛈ ᛉ ᛋ ᛏ ᛒ ᛖ ᛗ ᛚ ᛝ ᛟ ᛞ ᚪ ᚫ ᚣ ᛡ ᛠ`
 
 </div>
